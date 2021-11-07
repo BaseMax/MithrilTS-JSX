@@ -9,6 +9,13 @@ So in this example we are going to create a simple project with **Mithril** fram
 
 **Second component:** you can add name of your friends and its work dynamically.
 
+### Using
+
+- `$ npm install`
+- `$ npm run dev`
+- `$ npm run build`
+- `$ npm run preview`
+
 ### Credit
 
 Thank you from **Arthur Clemens**, and **Kevin Fiol** for helping me to config a Build system correctly. Now I have really a good feel while it's possible to config JSX syntax inside MithrilJS library on front of TypeScript which is a good tool for big project.
