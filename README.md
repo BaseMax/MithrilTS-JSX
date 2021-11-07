@@ -1,6 +1,6 @@
 # Mithril TS(Type script) JSX
 
-Create a spa project using Mithril JS framework and design layout by JSX syntax and use Typescript and Vite for build system.
+Create a SPA project using Mithril JS framework and design layout by JSX syntax and use Typescript and Vite for build system.
 
 ### Why MithrilJS with JSX?
 
