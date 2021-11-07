@@ -1,5 +1,9 @@
 # Mithril TS(Type script) JSX
 
+Create a spa project using Mithril JS framework and design layout by JSX syntax and use Typescript and Vote for build system.
+
+### Why MithrilJS with JSX?
+
 If you already know MithrilJS, you have to write the tempalte and layout in HybridScript way and you cannot do that in such a way like ReactJS.
 So in this example we are going to create a simple project with **Mithril** framework but with a JSX way.
 
