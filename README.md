@@ -3,6 +3,14 @@
 If you already know MithrilJS, you have to write the tempalte and layout in HybridScript way and you cannot do that in such a way like ReactJS.
 So in this example we are going to create a simple project with **Mithril** framework but with a JSX way.
 
+## Features
+
+- TypeScript (TS)
+- Support **JSX** syntax
+- Write **CSS** styles for each component in a seperate file, so it's easy to manage style conflicting
+- Auto build system (**Vite** is really fast and perfect system)
+- Use **MithrilJS** and what we love to use for what we are building
+
 [![Mithril-JS/Type script with support of JSX syntax](preview.png)](https://basemax.github.io/MithrilTS-JSX/dist/)
 
 **First component:** a counter which you can increase a number between 0 and infinity :)
